@@ -116,3 +116,5 @@ declare -p
 echo $random
 echo $RANDOM
 __vsc_prompt_cmd_original
+./bingo.sh
+./bingo.sh
