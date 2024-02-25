@@ -185,3 +185,6 @@ echo $(( RANDOM % 75 + 1))
 ./bingo.sh
 ./bingo.sh
 ./bingo.sh
+HELP
+help
+help let
