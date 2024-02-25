@@ -254,3 +254,4 @@ type psql
 type ./five/sh
 type ./five/sh
 type ./five.sh
+exit
