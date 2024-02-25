@@ -211,3 +211,5 @@ help function
 ./fortune.sh
 ./fortune.sh
 help
+help util
+help until
