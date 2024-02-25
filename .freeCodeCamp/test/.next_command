@@ -34,3 +34,4 @@ ls --color=auto -l
 ./questionnaire.sh
 echo $VARIABLE_NAME
 ./questionnaire.sh
+./questionnaire.sh
