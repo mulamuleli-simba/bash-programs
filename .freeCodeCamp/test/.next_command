@@ -36,3 +36,4 @@ echo $VARIABLE_NAME
 ./questionnaire.sh
 ./questionnaire.sh
 ./questionnaire.sh
+./questionnaire.sh
