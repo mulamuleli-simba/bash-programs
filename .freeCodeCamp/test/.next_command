@@ -249,3 +249,4 @@ type read
 type if type if
 type if
 type then
+type bash
