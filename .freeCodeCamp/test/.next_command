@@ -68,3 +68,4 @@ help
 help if
 help expression
 help [[ expression ]]
+help test
