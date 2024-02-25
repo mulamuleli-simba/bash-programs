@@ -132,3 +132,4 @@ I-0
 I=0
 echo $i
 echo $I
+(( I++ ))
