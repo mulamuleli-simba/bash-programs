@@ -216,3 +216,6 @@ help until
 ./fortune.sh
 ./fortune.sh
 help [[ expression ]]
+[[ heloo == hello ]]
+[[ heloo == hello ]]
+[[ hello == hello ]]
